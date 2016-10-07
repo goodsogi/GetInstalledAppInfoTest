@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/res/merged/debug/layout/listview.xml",
+        "source": "/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/src/main/res/layout/listview.xml"
+    },
+    {
+        "merged": "/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/res/merged/debug/layout/activity_get_info.xml",
+        "source": "/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/src/main/res/layout/activity_get_info.xml"
+    },
+    {
+        "merged": "/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/src/main/res/layout/row.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ce5e647b4aa322187db4c43d23d9ace6ec7145b7">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_37e9d2406764eb445fdbd67e011a25d14ede58d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_14b705467d8dd0602e37099623b40d1838e95331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="82747473f17816e33fe1647ac94602143b9f3e49">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RunningAppsInfoTest-master/app/build/intermediates/pre-dexed/debug/instant-run_07815c18330f0a75ecb3f200120d99707636fc4e.jar" />
+    </item>
+
+</items>
